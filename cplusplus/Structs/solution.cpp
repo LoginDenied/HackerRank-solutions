@@ -12,7 +12,7 @@ struct Student
     string first_name;
     string last_name;
     int standard;
-} st;
+};
 
 int main() 
 {
